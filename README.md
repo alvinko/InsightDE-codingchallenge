@@ -8,7 +8,7 @@ Insight Data Engineering - Coding Challenge
 
 In the directory where run.sh is located, run the following in command line
 
-> sh run.sh <0/1/2> <input_directory> <output_directory>
+> sh run.sh \<0/1/2\> \<input_directory\> \<output_directory\>
 
 Use only one of the following:
 
